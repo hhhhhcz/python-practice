@@ -1,2 +1,1 @@
-not just homework
-I getting started
+# I just getting started .
